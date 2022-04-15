@@ -1,0 +1,5 @@
+[user]
+	name = Your Name
+	email = youremail@yourdomain.com
+[core]
+	editor = gedit

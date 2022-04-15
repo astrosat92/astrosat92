@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="0.0029296875" last-seen="1649658598"/>
+    <application id="xdg-desktop-portal-gtk.desktop" score="0" last-seen="1649968516"/>
+    <application id="org.gnome.Nautilus.desktop" score="128.00003051757812" last-seen="1650000992"/>
+    <application id="org.gnome.DejaDup.desktop" score="0" last-seen="1649655273"/>
+    <application id="usb-creator-gtk.desktop" score="0.001861572265625" last-seen="1649655757"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1649656778"/>
+    <application id="libreoffice-writer.desktop" score="2.000091552734375" last-seen="1650001974"/>
+    <application id="org.gnome.Terminal.desktop" score="3228.642333984375" last-seen="1650004596"/>
+    <application id="firefox.desktop" score="19468.354766845703" last-seen="1650003705"/>
+    <application id="gnome-control-center.desktop" score="0.00701904296875" last-seen="1649656582"/>
+    <application id="update-manager.desktop" score="0" last-seen="1649656679"/>
+    <application id="org.gnome.gedit.desktop" score="117" last-seen="1650004616"/>
+    <application id="org.gnome.FileRoller.desktop" score="2" last-seen="1649874876"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1650001977"/>
+  </context>
+</application-state>

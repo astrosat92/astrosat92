@@ -1,0 +1,7 @@
+usb-creator 2022-04-11 01:35:22,702 (DEBUG) backend.py:26: UDisks2Backend
+usb-creator 2022-04-11 01:35:23,085 (DEBUG) backend.py:66: detect_devices
+usb-creator 2022-04-11 01:35:23,087 (DEBUG) backend.py:106: drive added: /org/freedesktop/UDisks2/block_devices/sr0
+usb-creator 2022-04-11 01:35:23,087 (DEBUG) backend.py:120: not adding device: 0 byte disk.
+usb-creator 2022-04-11 01:38:21,995 (DEBUG) backend.py:140: device change /org/freedesktop/UDisks2/drives/ST1000LM035_1RK172_WDEAKM95
+usb-creator 2022-04-11 01:38:21,995 (DEBUG) backend.py:81: Device has been removed from the system: /org/freedesktop/UDisks2/drives/ST1000LM035_1RK172_WDEAKM95
+usb-creator 2022-04-11 01:42:37,723 (DEBUG) backend.py:181: cancel_install

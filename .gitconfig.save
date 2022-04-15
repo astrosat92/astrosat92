@@ -1,0 +1,13 @@
+
+
+^x
+
+
+~/.gitconfig contents
+[user]
+name = Your Name
+email = youremail@domain.com
+
+[user]
+	name = Your Name
+	email = youremail@domain.com
